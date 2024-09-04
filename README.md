@@ -2,7 +2,7 @@
 
 This project presents a novel approach to multimodal emotion recognition, integrating video, audio, and text data. Our method generates a unified vector space using multitask learning, contrastive learning, and autoencoder techniques. The system outperforms current state-of-the-art methods on the IEMOCAP benchmark dataset.
 
-![Alt Fig. 1. Illustraion of Cross-modal emotion recognition (CMER)](images/Fig1_4.png)
+![Alt text](images/Fig1_4.png)
 
 ![Alt text](images/Fig2_2.png)
 
