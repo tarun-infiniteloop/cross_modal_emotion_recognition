@@ -1,0 +1,12 @@
+
+ffmpeg
+transformers
+torch
+librosa
+albumentations
+sentence-transformers
+tqdm
+pyttsx3
+vosk
+soundfile
+Pillow
