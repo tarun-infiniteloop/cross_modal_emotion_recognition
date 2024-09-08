@@ -7,6 +7,10 @@ This project presents a novel approach to multimodal emotion recognition, integr
 
 ![Alt text](images/Fig2_2.png)
 
+![Alt text](images/tsne1.png)
+
+![Alt text](images/tsne2.png)
+
 ## Requirements
 
 - Python 3.x
