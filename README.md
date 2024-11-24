@@ -189,6 +189,10 @@ The generated data and features are saved in various folders after preprocessing
 
 After training, the results will be saved in `result.txt` and include performance metrics on the IEMOCAP dataset.
 
+### Loss Weights
+
+Weights of all different losses are same which is one. But this is hyperparameter.
+
 ## Approach
 
 For each audio file, corresponding video frames are selected based on the dot product between the CLIP-generated text and image embeddings. The selected frames are then used in training, alongside the text and audio embeddings.
